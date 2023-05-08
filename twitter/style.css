@@ -1,0 +1,79 @@
+.body{
+    background-color: aliceblue;
+}
+.caixa1{
+    width: 480px;
+    margin-top: 40px;
+    border: 1px solid #000;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px #000;
+    background-color: rgb(255, 255, 255);
+    margin-top: 200px;
+    margin-left: 650px;
+    text-align: center;
+}
+.B1{
+    text-align: center;
+    border-radius: 15px;
+    border: 1px solid #000;
+    height: 25px;
+    width: 250px;
+    background: white;
+    font-family: Arial, Helvetica, sans-serif;
+  
+    
+
+
+
+}
+.b2{
+  border-radius: 15px;
+  border: 1px solid #000;
+  margin-top: 15px;
+  height: 25px;
+  width: 250px;
+  background: white;
+}
+.span{
+    margin-top: 20px;
+}
+.B3{
+    height: 40px;
+    border: 1px solid #b3b3b3;
+    margin-top: 5px;
+    width: 250px;
+    background: white;
+
+}
+
+.B4{
+    border-radius: 15px;
+    border: 1px solid #000;
+    margin-top: 15px;
+    height: 25px;
+    width: 250px;
+    color: white;
+    background: #000;
+
+}
+
+.B5{
+    border-radius: 15px;
+    border: 1px solid #000;
+    margin-top: 15px;
+    height: 25px;
+    width: 250px;
+    color: #000;
+    background: white;
+
+}
+.bi-twitter{
+    color: blue;
+}
+.bi-apple{
+    margin-right: 5px;
+}
+.bi-google{
+    margin-right: 5px;
+}
